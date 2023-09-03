@@ -22,3 +22,7 @@
   link: /
   new_window: true
   highlight: true
+  name: Gallery
+  link: /gallery/
+  new_window: true
+  hightlight: false
