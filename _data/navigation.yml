@@ -2,19 +2,19 @@
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
+- name: Projects
   link: /blog/
   new_window: false
   highlight: false
-- name: About
+- name: Join Us
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
+- name: Our Mission 
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
+- name: Join Us
   link: /
   new_window: true
   highlight: false
