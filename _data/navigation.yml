@@ -11,7 +11,7 @@
   new_window: false
   highlight: false
 - name: Join Us
-  link: /
+  link: /joinus/
   new_window: true
   highlight: true
   name: Gallery
