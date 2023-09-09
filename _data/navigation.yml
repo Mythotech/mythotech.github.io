@@ -6,17 +6,13 @@
   link: /blog/
   new_window: false
   highlight: false
-- name: Join Us
+- name: Our Team
   link: /about/
   new_window: false
   highlight: false
 - name: Our Mission 
   link: /contact/
   new_window: false
-  highlight: false
-- name: Join Us
-  link: /
-  new_window: true
   highlight: false
 - name: Sign Up
   link: /
