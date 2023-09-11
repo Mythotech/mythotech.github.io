@@ -1,78 +1,38 @@
-# Mythotech
+# Mythotech: Igniting Innovation in Technology
 
-Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+Welcome to Mythotech, a student-led nonprofit organization dedicated to uniting innovators and creative minds in the field of technology. Our mission is to provide a platform where individuals from all walks of life can come together, learn, create, and inspire.
 
-![Hydra template screenshot](images/_screenshot.png)
+## What We Offer
 
-Hydra was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+- **Interactive Workshops**: Engage in hands-on learning experiences through our workshops designed to increase engagement and learning opportunities for students.
+- **Industry Connections**: We collaborate with professionals in the field to ensure our workshops are based on real-world teachings and industry best practices.
+- **Inclusive Environment**: We foster an environment that accepts everyone regardless of background. Everyone can thrive here.
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+## Empowering Minds, Igniting Change
 
-## Features
+> "Empowering minds, igniting change, and forging futures - this is what Mythotech is about."
+>
+> \- Advita Bathole, President and Co-Founder of Mythotech
 
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Post category pages
-* Disqus comments for posts
-* Staff and author system
-* Configurable footer
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+## Meet Our Team
 
-## Setup
+Meet the exceptional minds at Mythotech, dedicated to creating STEM education and opportunities. Our mission is to empower individuals of all backgrounds to thrive in the technological world. Join us in shaping a future where everyone can learn and excel in STEM.
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics and Disqus keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+- **Advita Bathole**
+  - *President*
+- **Afnan Tahta**
+  - *Co-Vice President*
+- **Kevin Chang**
+  - *Co-Vice President*
+- **Akshara Gobbur**
+  - *Treasurer*
+- **Jacob Sagun**
+  - *Secretary*
+- **Satya Prakash Kothamasu**
+  - *Program Director*
+ 
+## Get in Touch
 
-## Develop
-
-Hydra was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
-
-Install the dependencies with [Bundler](http://bundler.io/):
-
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
-## Editing
-
-Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
-
-### Posts
-
-* Add, update or remove a post in the *Posts* collection.
-* The **Staff Author** field links to members in the **Staff** collection.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
-
-### Contact Form
-
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-* Sends email to the address listed in company details.
-
-### Staff
-
-* Reused around the site to save multiple editing locations.
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
-
-### Navigation
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
+- Website: [mythotech.org](mythotech.github.io)
+- Email: 
+- Twitter: 
