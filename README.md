@@ -33,6 +33,6 @@ Meet the exceptional minds at Mythotech, dedicated to creating STEM education an
  
 ## Get in Touch
 
-- Website: [mythotech.org](mythotech.github.io)
+- Website: 
 - Email: 
 - Twitter: 
